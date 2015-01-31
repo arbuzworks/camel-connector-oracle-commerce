@@ -43,6 +43,5 @@ public class OracleCommerceComponentCountQueryTest extends CamelTestSupport {
 
             }
         };
-		//get_repository_item repositoryItemId
     }
 }
